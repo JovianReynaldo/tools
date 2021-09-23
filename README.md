@@ -18,3 +18,6 @@
 - Emotion js
 - Styled Components
 - Tailwind
+
+### Icon
+- React-icons
