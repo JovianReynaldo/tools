@@ -37,5 +37,4 @@
 - REST CLIENT
 - es6
 - react snippet
-- react-svg
 
