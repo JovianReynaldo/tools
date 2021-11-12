@@ -5,6 +5,8 @@
 - AOS
 - LottiePlayer
 - React-Reveal
+- vivivy
+- animista
 
 ### State Management
 - Redux
