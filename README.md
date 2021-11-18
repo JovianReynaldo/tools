@@ -20,6 +20,9 @@
 - Tailwind
 - ChakraUI
 
+### Feedback
+- react-hot-toast
+
 ### Icon
 - React-icons
 
